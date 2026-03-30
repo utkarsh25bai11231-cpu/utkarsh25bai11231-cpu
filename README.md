@@ -6,20 +6,20 @@ BTech 1st year ('2029)
 
 
 
-**About Me:**
+**•About Me:**
 
 I am a passionate student exploring the world of technology and digital skills.
 
 I hope to learn programming, problem-solving, and how to build real-world projects using modern technologies.
 
 
-Interests:
+**•Interests:**
 
--Artificial Intelligence & Machine Learning  
+Artificial Intelligence & Machine Learning  
 
--Web Development
+Web Development
 
--Data Science
+Data Science
 
 
 
